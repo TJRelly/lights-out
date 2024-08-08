@@ -1,4 +1,4 @@
-### Lights Out Puzzle Game
+# Lights Out Puzzle Game
 
 **Overview:**
 *Lights Out* is a logic puzzle game implemented in React. The game consists of a grid of lights that can be toggled on or off by clicking. Clicking a cell not only toggles its state but also affects adjacent cells (up, down, left, right). The objective is to turn off all the lights to win the game.
